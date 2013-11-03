@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bea11822-abb6-4bee-98bd-c0131757288b" name="Default" comment="" />
-    <ignored path="DemoHTML.iws" />
+    <list default="true" id="fbc7089e-df21-458a-9261-89a60ee8190b" name="Default" comment="" />
+    <ignored path="DemoLinks.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,37 +20,67 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DemoHTML1.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoHTML1.html">
+      <file leaf-file-name="DemoLinks1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DemoLinks1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="21" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+            <state line="6" column="8" selection-start="0" selection-end="130" vertical-scroll-proportion="-9.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoHTML3.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoHTML3.html">
+      <file leaf-file-name="DemoLinks2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DemoLinks2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="24" selection-start="141" selection-end="158" vertical-scroll-proportion="0.0">
+            <state line="12" column="7" selection-start="0" selection-end="207" vertical-scroll-proportion="-12.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoHTML4.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DemoHTML4.html">
+      <file leaf-file-name="DemoLinks3.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DemoLinks3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="6" selection-start="64" selection-end="64" vertical-scroll-proportion="0.15977444">
+            <state line="7" column="28" selection-start="94" selection-end="100" vertical-scroll-proportion="-6.730769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoHTML2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoHTML2.html">
+      <file leaf-file-name="DemoLinks4.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DemoLinks4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="4" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+            <state line="6" column="10" selection-start="75" selection-end="75" vertical-scroll-proportion="0.50501">
+              <folding>
+                <element signature="tag#p#1;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#p#2;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactUs.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/ContactUs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="38" selection-start="162" selection-end="162" vertical-scroll-proportion="-10.384615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="19" selection-start="84" selection-end="84" vertical-scroll-proportion="-7.1538463">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registration.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/more/registration.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="12" selection-start="78" selection-end="78" vertical-scroll-proportion="-7.269231">
               <folding />
             </state>
           </provider>
@@ -66,10 +96,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/DemoHTML1.html" />
-        <option value="$PROJECT_DIR$/DemoHTML2.html" />
-        <option value="$PROJECT_DIR$/DemoHTML3.html" />
-        <option value="$PROJECT_DIR$/DemoHTML4.html" />
+        <option value="$PROJECT_DIR$/DemoLinks1.html" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/registration.html" />
+        <option value="$PROJECT_DIR$/pages/ContactUs.html" />
+        <option value="$PROJECT_DIR$/DemoLinks2.html" />
+        <option value="$PROJECT_DIR$/DemoLinks3.html" />
+        <option value="$PROJECT_DIR$/DemoLinks4.html" />
       </list>
     </option>
   </component>
@@ -110,17 +143,45 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DemoHTML" />
+              <option name="myItemId" value="DemoLinks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DemoHTML" />
+              <option name="myItemId" value="DemoLinks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DemoHTML" />
+              <option name="myItemId" value="DemoLinks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoLinks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoLinks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoLinks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoLinks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="more" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -133,15 +194,13 @@
     <property name="recentsLimit" value="5" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ZeeshanHanif\SSUETClasses\October2013\101\ClassCode\3Nov2013\DemoLinks\more" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="" coffeescript-run="false">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -149,20 +208,19 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bea11822-abb6-4bee-98bd-c0131757288b" name="Default" comment="" />
-      <created>1382857103030</created>
-      <updated>1382857103030</updated>
+      <created>1383461678972</created>
+      <updated>1383461678972</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11588412" sideWeight="0.7787307" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12587413" sideWeight="0.7787307" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39965695" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -230,59 +288,62 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DemoHTML1.html">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webide.jar!/resources/html5-schema/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="21" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+        <state line="41" column="4" selection-start="1093" selection-end="1093" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoHTML2.html">
+    <entry file="file://$PROJECT_DIR$/DemoLinks1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="4" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+        <state line="6" column="8" selection-start="0" selection-end="130" vertical-scroll-proportion="-9.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoHTML3.html">
+    <entry file="file://$PROJECT_DIR$/more/registration.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="141" selection-end="158" vertical-scroll-proportion="0.0">
+        <state line="7" column="12" selection-start="78" selection-end="78" vertical-scroll-proportion="-7.269231">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoHTML4.html">
+    <entry file="file://$PROJECT_DIR$/pages/ContactUs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
+        <state line="10" column="38" selection-start="162" selection-end="162" vertical-scroll-proportion="-10.384615">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoHTML1.html">
+    <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="21" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+        <state line="6" column="19" selection-start="84" selection-end="84" vertical-scroll-proportion="-7.1538463">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoHTML2.html">
+    <entry file="file://$PROJECT_DIR$/DemoLinks2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="4" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+        <state line="12" column="7" selection-start="0" selection-end="207" vertical-scroll-proportion="-12.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoHTML3.html">
+    <entry file="file://$PROJECT_DIR$/DemoLinks3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="141" selection-end="158" vertical-scroll-proportion="0.0">
+        <state line="7" column="28" selection-start="94" selection-end="100" vertical-scroll-proportion="-6.730769">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoHTML4.html">
+    <entry file="file://$PROJECT_DIR$/DemoLinks4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="64" selection-end="64" vertical-scroll-proportion="0.15977444">
-          <folding />
+        <state line="6" column="10" selection-start="75" selection-end="75" vertical-scroll-proportion="0.50501">
+          <folding>
+            <element signature="tag#p#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#p#2;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
