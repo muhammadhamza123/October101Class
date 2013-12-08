@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f02b076b-4a4f-4a6a-9f5b-fd8d76122f2a" name="Default" comment="" />
-    <ignored path="DemoConditions.iws" />
+    <list default="true" id="249ff199-1e22-4e56-ac61-3682e3f41f2f" name="Default" comment="" />
+    <ignored path="DemoGame.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,91 +20,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DemoLogicalOperators.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoLogicalOperators.html">
+      <file leaf-file-name="DemoGame1.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DemoGame1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="7" selection-start="0" selection-end="300" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoConditions6.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoConditions6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="9" selection-start="71" selection-end="404" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoConditions7.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DemoConditions7.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="7" selection-start="474" selection-end="474" vertical-scroll-proportion="0.6640625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoBitwiseOperator.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoBitwiseOperator.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoConditions8.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoConditions8.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="12" selection-start="0" selection-end="231" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoConditions9.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoConditions9.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="27" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoConditions10.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoConditions10.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="9" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoConditions11.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoConditions11.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="18" selection-start="0" selection-end="303" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoConditions12.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoConditions12.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="33" selection-start="126" selection-end="134" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoBitwiseOperator2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DemoBitwiseOperator2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="19" selection-start="120" selection-end="123" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.08834586">
               <folding />
             </state>
           </provider>
@@ -120,29 +39,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/DemoConditions1.html" />
-        <option value="$PROJECT_DIR$/DemoConditions2.html" />
-        <option value="$PROJECT_DIR$/DemoConditions3.html" />
-        <option value="$PROJECT_DIR$/DemoConditions4.html" />
-        <option value="$PROJECT_DIR$/DemoLogicalOperators.html" />
-        <option value="$PROJECT_DIR$/DemoLogicalOperatos2.html" />
-        <option value="$PROJECT_DIR$/DemoConditions5.html" />
-        <option value="$PROJECT_DIR$/DemoConditions6.html" />
-        <option value="$PROJECT_DIR$/DemoConditions7.html" />
-        <option value="$PROJECT_DIR$/DemoBitwiseOperator2.html" />
-        <option value="$PROJECT_DIR$/DemoBitwiseOperator.html" />
-        <option value="$PROJECT_DIR$/DemoConditions8.html" />
-        <option value="$PROJECT_DIR$/DemoConditions9.html" />
-        <option value="$PROJECT_DIR$/DemoConditions10.html" />
-        <option value="$PROJECT_DIR$/DemoConditions11.html" />
-        <option value="$PROJECT_DIR$/DemoConditions12.html" />
+        <option value="$PROJECT_DIR$/DemoGame1.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1040" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -171,33 +75,33 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DemoConditions" />
+              <option name="myItemId" value="DemoGame" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DemoConditions" />
+              <option name="myItemId" value="DemoGame" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DemoConditions" />
+              <option name="myItemId" value="DemoGame" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="E:/FreelanceProjects/2013/3rdQuarter/Kuew/project/kuewDashDev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../201/ClassCode/08Dec2013" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="PublishConfig">
@@ -222,33 +126,26 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="" coffeescript-run="false">
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method />
-    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f02b076b-4a4f-4a6a-9f5b-fd8d76122f2a" name="Default" comment="" />
-      <created>1385878802307</created>
-      <updated>1385878802307</updated>
+      <changelist id="249ff199-1e22-4e56-ac61-3682e3f41f2f" name="Default" comment="" />
+      <created>1386489742623</created>
+      <updated>1386489742623</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13409092" sideWeight="0.7787307" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12781186" sideWeight="0.7787307" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39965695" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -316,102 +213,23 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DemoConditions1.html">
+    <entry file="file://$PROJECT_DIR$/DemoGame1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="0" selection-end="263" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="5" selection-start="0" selection-end="316" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="0" selection-end="288" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoLogicalOperatos2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="81" selection-end="81" vertical-scroll-proportion="-2.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="0" selection-end="447" vertical-scroll-proportion="-3.5384614" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="16" selection-start="0" selection-end="473" vertical-scroll-proportion="-1.8076923" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoLogicalOperators.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="0" selection-end="300" vertical-scroll-proportion="0.0">
+        <state line="11" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoBitwiseOperator2.html">
+    <entry file="file://$PROJECT_DIR$/DemoGame1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="120" selection-end="123" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DemoBitwiseOperator.html">
+    <entry file="file://$PROJECT_DIR$/DemoGame1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="9" selection-start="71" selection-end="404" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="18" selection-start="0" selection-end="303" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions12.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="126" selection-end="134" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="9" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions9.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="27" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="12" selection-start="0" selection-end="231" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DemoConditions7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="7" selection-start="474" selection-end="474" vertical-scroll-proportion="0.6640625">
+        <state line="11" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.08834586">
           <folding />
         </state>
       </provider>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script>
+
+        do {
+            var num = Math.round(Math.random()*10);
+            alert("Num = "+num);
+
+            //alert("UserInput = "+userInput);
+
+            for(var i=0;i<3;i++){
+                var userInput = parseInt(prompt("Enter number"));
+                if(num == userInput){
+                    alert("You win");
+                    break;
+                }
+                else {
+                    alert("Incorrect Please try again");
+                }
+            }
+
+            var playAgain = confirm("Do you want to play again?");
+
+            if(!playAgain){
+                alert("Thank you!!!!");
+            }
+
+        }while(playAgain);
+    </script>
+</head>
+<body>
+
+</body>
+</html>
